@@ -1,0 +1,17 @@
+H:\IFMSLatest\IMFS.Common\bin\Release\IMFS.Common.dll
+H:\IFMSLatest\IMFS.Common\bin\Release\IMFS.Common.pdb
+H:\IFMSLatest\IMFS.Common\bin\Release\FrameworkX.ObjectSpace.dll
+H:\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.csprojResolveAssemblyReference.cache
+H:\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.dll
+H:\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Release\IMFS.Common.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Release\IMFS.Common.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Release\FrameworkX.ObjectSpace.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.csprojResolveAssemblyReference.cache
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Release\IMFS.Common.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Release\IMFS.Common.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Release\FrameworkX.ObjectSpace.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Release\IMFS.Common.pdb

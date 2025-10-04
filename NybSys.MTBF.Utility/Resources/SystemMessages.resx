@@ -1,0 +1,1041 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BUDGET_SAVED" xml:space="preserve">
+    <value>Budget information saved successfully.</value>
+  </data>
+  <data name="BUDGET_SAVE_FAILED" xml:space="preserve">
+    <value>Failed to save budget information.</value>
+  </data>
+  <data name="CELLING_MUST_SELECT_CTRL_ITEM" xml:space="preserve">
+    <value>You need to select control item.</value>
+  </data>
+  <data name="CELLING_SAVED" xml:space="preserve">
+    <value>Ceiling information saved successfully.</value>
+  </data>
+  <data name="CELLING_SAVE_FAILED" xml:space="preserve">
+    <value>Failed to save ceiling information.</value>
+  </data>
+  <data name="COA_SAVED" xml:space="preserve">
+    <value>Chart Of Accounts Information saved successfully.</value>
+  </data>
+  <data name="COA_SAVE_FAILED" xml:space="preserve">
+    <value>Failed to save Chart Of Accounts Information.</value>
+  </data>
+  <data name="DUPLICATE_CELLING_ENTRY" xml:space="preserve">
+    <value>Duplicate ceiling information.</value>
+  </data>
+  <data name="DUPLICATE_COA_ENTRY" xml:space="preserve">
+    <value>Duplicate Chart of Accounts entry detected.</value>
+  </data>
+  <data name="INCOMPLETE_BUDGET" xml:space="preserve">
+    <value>Please select all options.</value>
+  </data>
+  <data name="EMPTY_COA" xml:space="preserve">
+    <value>Please enter Chart Of Accounts data.</value>
+  </data>
+  <data name="INCOMPLETE_CELLING" xml:space="preserve">
+    <value>Please select all options.</value>
+  </data>
+  <data name="INCOMPLETE_COA" xml:space="preserve">
+    <value>Please select all items to complete the Chart of Accounts.</value>
+  </data>
+  <data name="INVALID_CELLING_AMOUNT" xml:space="preserve">
+    <value>Invalid ceiling  amount.</value>
+  </data>
+  <data name="UNKNOWN_CELLING_COMBINATION" xml:space="preserve">
+    <value>Chart Of Accounts information not found for this ceiling entry.</value>
+  </data>
+  <data name="EMPTY_CELLING" xml:space="preserve">
+    <value>Please enter ceiling information.</value>
+  </data>
+  <data name="CELLING_EXCEEDED" xml:space="preserve">
+    <value>Budget amount is exceeded ceiling amount.</value>
+  </data>
+  <data name="APPLICATION_EXCEPTION" xml:space="preserve">
+    <value>An error ocured during the process. error is being logged.</value>
+  </data>
+  <data name="CURRENCY_MUST_SELECT" xml:space="preserve">
+    <value>You need to select currency.</value>
+  </data>
+  <data name="NO_OF_INPUT_MUST_ENTER" xml:space="preserve">
+    <value>You need to enter no of input.</value>
+  </data>
+  <data name="PRICE_MUST_ENTER" xml:space="preserve">
+    <value>You need to enter price.</value>
+  </data>
+  <data name="QUANTITY_OF_INPUT_MUST_ENTER" xml:space="preserve">
+    <value>You need to enter quantity of input.</value>
+  </data>
+  <data name="UOM_MUST_SELECT" xml:space="preserve">
+    <value>You need to select unit of measure.</value>
+  </data>
+  <data name="ENTER_BUDGET" xml:space="preserve">
+    <value>Please enter budget information.</value>
+  </data>
+  <data name="ACTIVITY_SAVED" xml:space="preserve">
+    <value>Department information saved successfully.</value>
+  </data>
+  <data name="ACTIVITY_SAVE_FAILED" xml:space="preserve">
+    <value>Failed to save department information.</value>
+  </data>
+  <data name="ENTER_REQUIRE_DATA" xml:space="preserve">
+    <value>Please enter all required data.</value>
+  </data>
+  <data name="CONTROL_ITEM_SAVED" xml:space="preserve">
+    <value>Control item  information saved successfully.</value>
+  </data>
+  <data name="CONTROL_ITEM_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save control item  information.</value>
+  </data>
+  <data name="RESPONSIBILITY_SAVED" xml:space="preserve">
+    <value>Section information saved successfully.</value>
+  </data>
+  <data name="RESPONSIBILITY_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save section information.</value>
+  </data>
+  <data name="REPORTING_ITEM_SAVED" xml:space="preserve">
+    <value>Reporting item  information saved successfully.</value>
+  </data>
+  <data name="REPORTING_ITEM_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save reporting item  information.</value>
+  </data>
+  <data name="DETAIL_ITEM_SAVED" xml:space="preserve">
+    <value>Detail item  information saved successfully.</value>
+  </data>
+  <data name="DETAIL_ITEM_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save detail item information.</value>
+  </data>
+  <data name="DUPLICATE_ACTIVITY_CENTER" xml:space="preserve">
+    <value>Duplicate department code exists.</value>
+  </data>
+  <data name="DUPLICATE_CONTROL_ITEM" xml:space="preserve">
+    <value>Duplicate control item information.</value>
+  </data>
+  <data name="DUPLICATE_DETAIL_ITEM" xml:space="preserve">
+    <value>Duplicate detail item information.</value>
+  </data>
+  <data name="DUPLICATE_REPORTING_ITEM" xml:space="preserve">
+    <value>Duplicate reporting item information.</value>
+  </data>
+  <data name="DUPLICATE_RESP_CENTER" xml:space="preserve">
+    <value>Duplicate section code exists !</value>
+  </data>
+  <data name="SELECT_ACTIVITY_CENTER" xml:space="preserve">
+    <value>You need to select department.</value>
+  </data>
+  <data name="SELECT_RESPONSIBILITY_CENTER" xml:space="preserve">
+    <value>You need to select section.</value>
+  </data>
+  <data name="INVALID_USER" xml:space="preserve">
+    <value>User name or password not match.</value>
+  </data>
+  <data name="ENTER_PASSWORD" xml:space="preserve">
+    <value>Password can't be blank.</value>
+  </data>
+  <data name="ENTER_USER_ID" xml:space="preserve">
+    <value>User id can't be blank.</value>
+  </data>
+  <data name="SELECT_COMPANY" xml:space="preserve">
+    <value>You need to select company name.</value>
+  </data>
+  <data name="SELECT_COMPANY_OR_ACTIVITY_CENTER" xml:space="preserve">
+    <value>You need to select company name or department name.</value>
+  </data>
+  <data name="ENTER_OBJECTIVES" xml:space="preserve">
+    <value>Pleasse enter objective .</value>
+  </data>
+  <data name="ENTER_OUTPUTS" xml:space="preserve">
+    <value>Please enter output.</value>
+  </data>
+  <data name="PRESS_EDIT_BUTTON" xml:space="preserve">
+    <value>You need to press edit button.</value>
+  </data>
+  <data name="SELECT_OBJECTIVE" xml:space="preserve">
+    <value>Please select an objective.</value>
+  </data>
+  <data name="SELECT_OUTPUTS" xml:space="preserve">
+    <value>Please select an output.</value>
+  </data>
+  <data name="SELECT_CONTROL_ITEM" xml:space="preserve">
+    <value>Please select control item.</value>
+  </data>
+  <data name="SELECT_REPORTING_ITEM" xml:space="preserve">
+    <value>Please select reporting item.</value>
+  </data>
+  <data name="RCORD_DELETE_FAILED" xml:space="preserve">
+    <value>Failed to delete record.</value>
+  </data>
+  <data name="RECORD_DELETED_SUCCESSFULLY" xml:space="preserve">
+    <value>Record deleted successfully .</value>
+  </data>
+  <data name="ENTRY_CORRECT_FORMAT" xml:space="preserve">
+    <value>You need to enter only numaric value.</value>
+  </data>
+  <data name="ENTRY_TWO_DIGIT" xml:space="preserve">
+    <value>You must need entry two digit.</value>
+  </data>
+  <data name="CELLING_MUST_SELECT_DETAIL_ITEM" xml:space="preserve">
+    <value>You need to select detail item.</value>
+  </data>
+  <data name="CELLING_MUST_SELECT_REPORTING_ITEM" xml:space="preserve">
+    <value>You need to select reporting item.</value>
+  </data>
+  <data name="PERIOD_MUST_SELECT" xml:space="preserve">
+    <value>You need to select period.</value>
+  </data>
+  <data name="CURRENCY_SAVED" xml:space="preserve">
+    <value>Currency  information saved successfully.</value>
+  </data>
+  <data name="CURRENCY_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save currency information.</value>
+  </data>
+  <data name="CURRENCY_UPDATE" xml:space="preserve">
+    <value>Currency  information update successfully.</value>
+  </data>
+  <data name="CURRENCY_UPDATE_FAILED" xml:space="preserve">
+    <value>Failed to update currency information.</value>
+  </data>
+  <data name="DUPLICATE_CURRENCY" xml:space="preserve">
+    <value>Duplicate currency information.</value>
+  </data>
+  <data name="DUPLICATE_TASKTYPE" xml:space="preserve">
+    <value>Duplicate task type information.</value>
+  </data>
+  <data name="TaskType_SAVED" xml:space="preserve">
+    <value>Task type  information saved successfully.</value>
+  </data>
+  <data name="TaskType_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save task type information.</value>
+  </data>
+  <data name="TaskType_UPDATE" xml:space="preserve">
+    <value>Task type  information update successfully.</value>
+  </data>
+  <data name="TaskType_UPDATE_FAILED" xml:space="preserve">
+    <value>Failed to update task type information.</value>
+  </data>
+  <data name="DUPLICATE_UNIT_OF_MEASURE" xml:space="preserve">
+    <value>Duplicate Unit of Measure information.</value>
+  </data>
+  <data name="UNIT_OF_MEASURE_SAVED" xml:space="preserve">
+    <value>Unit of Measure information saved successfully.</value>
+  </data>
+  <data name="UNIT_OF_MEASURE_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save unit of Measure information.</value>
+  </data>
+  <data name="UNIT_OF_MEASURE_UPDATE" xml:space="preserve">
+    <value>Unit of Measure information update successfully.</value>
+  </data>
+  <data name="UNIT_OF_MEASURE_UPDATE_FAILED" xml:space="preserve">
+    <value>Failed to update unit of Measure information.</value>
+  </data>
+  <data name="DUPLICATE_INFLATION_RATE" xml:space="preserve">
+    <value>Duplicate inflation rate information.</value>
+  </data>
+  <data name="INFLATION_RATE_SAVED" xml:space="preserve">
+    <value>Inflation rate information saved successfully.</value>
+  </data>
+  <data name="INFLATION_RATE_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save inflation rate information.</value>
+  </data>
+  <data name="INFLATION_RATE_UPDATE" xml:space="preserve">
+    <value>Inflation rate information update successfully.</value>
+  </data>
+  <data name="INFLATION_RATE_UPDATE_FAILED" xml:space="preserve">
+    <value>Failed to update inflation rate information.</value>
+  </data>
+  <data name="SELECT_ROW" xml:space="preserve">
+    <value>Please select a row.</value>
+  </data>
+  <data name="APPROVED_BUDGET_CANNOT_BE_CHANGE" xml:space="preserve">
+    <value>Approved budget can’t be change.</value>
+  </data>
+  <data name="ACCOUNT_MAPPING_HAS_MAPPING" xml:space="preserve">
+    <value>This item already has mapping</value>
+  </data>
+  <data name="ACCOUNT_MAPPING_SELECT_NODE" xml:space="preserve">
+    <value>Please select institution.</value>
+  </data>
+  <data name="ACCOUNT_MAPPING_SELECT_RESP" xml:space="preserve">
+    <value>Please select section.</value>
+  </data>
+  <data name="SELECT_ACCOUNT_CATEGORY" xml:space="preserve">
+    <value>Your need to select account type.</value>
+  </data>
+  <data name="SELECT_FISCAL_YEAR" xml:space="preserve">
+    <value>Your need to select fiscal year.</value>
+  </data>
+  <data name="EXPORT_COMPLETED" xml:space="preserve">
+    <value>Export completed successfully.</value>
+  </data>
+  <data name="SELECT_CHECK_BOX" xml:space="preserve">
+    <value>Please select check box to approve budget.</value>
+  </data>
+  <data name="BASE_AMOUNT_LESS_THAN_ACTIVITY" xml:space="preserve">
+    <value>Base amount of head level ceiling can’t be less than activity level ceiling</value>
+  </data>
+  <data name="BASE_AMOUNT_LESS_THAN_RESPONSIBILITY" xml:space="preserve">
+    <value>Base amount of head level ceiling can’t be less than responsibility level ceiling.</value>
+  </data>
+  <data name="DEPARTMENT_BASE_CELLING_EXCEED" xml:space="preserve">
+    <value>Base amount of department level ceiling is exceeding base amount of head level ceiling.</value>
+  </data>
+  <data name="DEPARTMENT_ONCE_OF_CELLING_EXCEED" xml:space="preserve">
+    <value>Once off amount of department level ceiling is exceeding base amount of head level ceiling.</value>
+  </data>
+  <data name="DEPARTMENT_REVISED_CELLING_EXCEED" xml:space="preserve">
+    <value>Revised amount of department level ceiling is exceeding base amount of head level ceiling.</value>
+  </data>
+  <data name="HEAD_CELLINT_AMOUNT_INVALID" xml:space="preserve">
+    <value>Head ceiling amount can't be less than activity ceiling amount.</value>
+  </data>
+  <data name="ONCE_OF_AMOUNT_LESS_THAN_ACTIVITY" xml:space="preserve">
+    <value>Once off amount of head level ceiling can’t be less than activity level ceiling.</value>
+  </data>
+  <data name="ONCE_OF_AMOUNT_LESS_THAN_RESPONSIBILITY" xml:space="preserve">
+    <value>Once off amount of head level ceiling can’t be less than responsibility level ceiling.</value>
+  </data>
+  <data name="RESPONSIBILITY_BASE_CELLING_EXCEED" xml:space="preserve">
+    <value>Base amount of responsibility level ceiling is exceeding base amount of activity level ceiling.</value>
+  </data>
+  <data name="RESPONSIBILITY_ONCE_OF_CELLING_EXCEED" xml:space="preserve">
+    <value>Once off amount of responsibility level ceiling is exceeding base amount of activity level ceiling.</value>
+  </data>
+  <data name="RESPONSIBILITY_REVISED_CELLING_EXCEED" xml:space="preserve">
+    <value>Revised amount of responsibility level ceiling is exceeding base amount of activity level ceiling.</value>
+  </data>
+  <data name="REVISED_AMOUNT_LESS_THAN_ACTIVITY" xml:space="preserve">
+    <value>Revised amount of head level ceiling can’t be less than activity level ceiling.</value>
+  </data>
+  <data name="REVISED_AMOUNT_LESS_THAN_RESPONSIBILITY" xml:space="preserve">
+    <value>Revised amount of head level ceiling can’t be less than responsibility level ceiling.</value>
+  </data>
+  <data name="DUPLICATE_USERS" xml:space="preserve">
+    <value>User id already exists.</value>
+  </data>
+  <data name="USERS_SAVED" xml:space="preserve">
+    <value>Users  information saved successfully.</value>
+  </data>
+  <data name="USERS_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save Users information.</value>
+  </data>
+  <data name="PASSWORD_NOT_MATCH" xml:space="preserve">
+    <value>Retype password not match.</value>
+  </data>
+  <data name="ENTER_CORRECT_EMAIL_FORMAT" xml:space="preserve">
+    <value>Enter correct email format.</value>
+  </data>
+  <data name="USERS_UPDATE" xml:space="preserve">
+    <value>Users  information update successfully.</value>
+  </data>
+  <data name="USERS_UPDATE_FAILED" xml:space="preserve">
+    <value>Failed to update users information.</value>
+  </data>
+  <data name="ROLE_ADMIN_NOT_EDITABLE" xml:space="preserve">
+    <value>Admin role can not be updated.</value>
+  </data>
+  <data name="ROLE_SAVE_FAILED" xml:space="preserve">
+    <value>Failed to save role.</value>
+  </data>
+  <data name="ROLE_SAVE_SUCCESSFULL" xml:space="preserve">
+    <value>Role saved succesfully</value>
+  </data>
+  <data name="ROLE_SELECT_ROLE" xml:space="preserve">
+    <value>Please select a role first</value>
+  </data>
+  <data name="DELETE_MESSAGE" xml:space="preserve">
+    <value>Are you sure you want to delete?</value>
+  </data>
+  <data name="ACTIVITY_CENTER_ALRADY_EXIST_IN_BUDGE_OR_CELLING_INFORMATION" xml:space="preserve">
+    <value>Department already exist in budget or ceiling information</value>
+  </data>
+  <data name="RESP_CENTER_ALRADY_EXIST_IN_BUDGE_OR_CELLING_INFORMATION" xml:space="preserve">
+    <value>Section already exist in budget or ceiling information</value>
+  </data>
+  <data name="CONTROL_ITEM_ALRADY_EXIST_IN_BUDGE_OR_CELLING_INFORMATION" xml:space="preserve">
+    <value>Control item already exist in budget or ceiling information.</value>
+  </data>
+  <data name="DETAIL_ITEM_ALRADY_EXIST_IN_BUDGE_OR_CELLING_INFORMATION" xml:space="preserve">
+    <value>Detail item already exist in budget or ceiling information.</value>
+  </data>
+  <data name="REPORTING_ITEM_ALRADY_EXIST_IN_BUDGE_OR_CELLING_INFORMATION" xml:space="preserve">
+    <value>Reporting item already exist in budget or ceiling information.</value>
+  </data>
+  <data name="TASK_ALRADY_EXIST_IN_BUDGE_INFORMATION" xml:space="preserve">
+    <value>Task already exist in budget  information.</value>
+  </data>
+  <data name="NO_DATA_FOUND" xml:space="preserve">
+    <value>No data found for this combination .</value>
+  </data>
+  <data name="HELP_UNAVAILABLE" xml:space="preserve">
+    <value>Help is currently unavailable.</value>
+  </data>
+  <data name="ROLE_ENTER_ROLE_NAME" xml:space="preserve">
+    <value>Please type role name.</value>
+  </data>
+  <data name="APP_EXIT_CONFIRMATION" xml:space="preserve">
+    <value>Do you want to exit now ?</value>
+  </data>
+  <data name="CAN_NOT_DELETE_THIS_USER" xml:space="preserve">
+    <value>You can't delete this user.</value>
+  </data>
+  <data name="INACTIVE_USER" xml:space="preserve">
+    <value>This user is inactive now.</value>
+  </data>
+  <data name="INVALID_EMAIL" xml:space="preserve">
+    <value>Invalid email address.</value>
+  </data>
+  <data name="OLD_PASSWORD_NOT_MATCH" xml:space="preserve">
+    <value>Password not match.</value>
+  </data>
+  <data name="PASSWORD_SAVE_SUCCESSFILLY" xml:space="preserve">
+    <value>Password save successfully.</value>
+  </data>
+  <data name="YOU_ALREADY_HAVE_BASE_CURRENCY" xml:space="preserve">
+    <value>You already have a base currency.</value>
+  </data>
+  <data name="BUDGET_SUBMITTED_SUCCESSFULLY" xml:space="preserve">
+    <value>Budget submitted successfully.</value>
+  </data>
+  <data name="SELECT_CHECK_BOX_DISAPPROVED" xml:space="preserve">
+    <value>Please select check box to disapprove budget.</value>
+  </data>
+  <data name="PREFERENCE_SAVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Preference saved successfully.</value>
+  </data>
+  <data name="SELECT_COMPANY_NAME" xml:space="preserve">
+    <value>Please select company name.</value>
+  </data>
+  <data name="SELECT_DEPARTMENT_NAME" xml:space="preserve">
+    <value>Please select department name.</value>
+  </data>
+  <data name="SELECT_SECTION_NAME" xml:space="preserve">
+    <value>Please select section name.</value>
+  </data>
+  <data name="SELECT_TASK_NAME" xml:space="preserve">
+    <value>Please select task name.</value>
+  </data>
+  <data name="RELEASE_AMOUNT_CANNOT_GRATER_THAN_REMAINING_AMOUNT" xml:space="preserve">
+    <value>Release amount can't greater than remaining amount.</value>
+  </data>
+  <data name="SAVE_SUCCESSFULLY" xml:space="preserve">
+    <value>Record saved successfully.</value>
+  </data>
+  <data name="CANNOT_DELETE_ORDER_ITEM" xml:space="preserve">
+    <value>Can not delete purchase ordered items, you only can modify quantity.</value>
+  </data>
+  <data name="PLEASE_ENTER_CREDITNOTE_AMOUNT" xml:space="preserve">
+    <value>Please enter credit note amount.</value>
+  </data>
+  <data name="PLEASE_ENTER_CREDITNOTE_NUMBER" xml:space="preserve">
+    <value>Please enter credit note number.</value>
+  </data>
+  <data name="PLEASE_ENTER_INVOICE_NUMBER" xml:space="preserve">
+    <value>Please enter invoice number.</value>
+  </data>
+  <data name="PLEASE_ENTER_TOTAL_AMOUNT" xml:space="preserve">
+    <value>Please enter total amount.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_PAYMENT_METHOD" xml:space="preserve">
+    <value>You need to select payment method.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_PO_NUMBER" xml:space="preserve">
+    <value>You need to select PO number.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_SHIPPING_AGENCY" xml:space="preserve">
+    <value>You need to select shipping agency.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_SHIPPING_METHOD" xml:space="preserve">
+    <value>You need to select shipping method.</value>
+  </data>
+  <data name="INVOICE_SAVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Invoice information saved successfully.</value>
+  </data>
+  <data name="INVOICE_SAVE_FAILED" xml:space="preserve">
+    <value>Failed to save invoice information.</value>
+  </data>
+  <data name="CONTRACT_INFORMATION_SAVED" xml:space="preserve">
+    <value>Contract information saved successfully.</value>
+  </data>
+  <data name="CONTRACT_INFORMATION_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save contract information.</value>
+  </data>
+  <data name="INVALID_GRID_ROW" xml:space="preserve">
+    <value>Grid row can't be blanked.</value>
+  </data>
+  <data name="SELECT_CONTRACT_TYPE" xml:space="preserve">
+    <value>You need to select contract type.</value>
+  </data>
+  <data name="SELECT_PAYEE_NAME" xml:space="preserve">
+    <value>You need to select payee name.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_BANK_ACCOUNT_NUMBER" xml:space="preserve">
+    <value>You need to enter bank account number.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_BANK_NAME" xml:space="preserve">
+    <value>You need to enter bank name.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_BRANCH_CODE" xml:space="preserve">
+    <value>You need to enter branch code.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_CHEQUE_NUMBER" xml:space="preserve">
+    <value>You need to enter cheque number.</value>
+  </data>
+  <data name="PLEASE_ENTER_DELIVERY_NOTE_NUMBER" xml:space="preserve">
+    <value>You need to enter delivery note number.</value>
+  </data>
+  <data name="SELECT_INVOICE_TYPE" xml:space="preserve">
+    <value>You need to select invoice type.</value>
+  </data>
+  <data name="SELECT_SUPPLIER" xml:space="preserve">
+    <value>You need to select supplier name.</value>
+  </data>
+  <data name="DUPLICATE_PO_NUMBER" xml:space="preserve">
+    <value>Duplicate invoice number ! </value>
+  </data>
+  <data name="REMOVE_ALL_DATA_FROM_GRID" xml:space="preserve">
+    <value>This change will remove all previously added data in grid. Dou you want to continue?</value>
+  </data>
+  <data name="ENTER_VOUCHER_NUMBER" xml:space="preserve">
+    <value>You need to enter voucher number.</value>
+  </data>
+  <data name="VOUCHER_INFORMATION_SAVED" xml:space="preserve">
+    <value>Voucher information saved successfully.</value>
+  </data>
+  <data name="VOUCHER_INFORMATION_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save voucher information.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_VOUCHER_TYPE" xml:space="preserve">
+    <value>You need to select voucher type.</value>
+  </data>
+  <data name="SELECT_DUPLICATE_INVICE_NUMBER" xml:space="preserve">
+    <value>You have already selected this invoice number !</value>
+  </data>
+  <data name="NEED_TO_ENTER_PERIOD" xml:space="preserve">
+    <value>You need to enter contract period.</value>
+  </data>
+  <data name="DUPLICATE_VOUCHER_NUMBER" xml:space="preserve">
+    <value>Duplicate voucher number !</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_REJECT_SEASON" xml:space="preserve">
+    <value>You need to select reject reason.</value>
+  </data>
+  <data name="CAN_NOT_BE_BLANKED" xml:space="preserve">
+    <value>can't  be blanked.</value>
+  </data>
+  <data name="YOU_CAN_EDIT_ONLY_REGISTERED_INVOICES" xml:space="preserve">
+    <value>You can edit only registered invoice.</value>
+  </data>
+  <data name="VOUCHER_INFORMATION_APPROVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Vouchers information are approved successfully.</value>
+  </data>
+  <data name="VOUCHER_INFORMATION_CHECKED_SUCCESSFULLY" xml:space="preserve">
+    <value>Vouchers informaiton are checked successfully.</value>
+  </data>
+  <data name="VOUCHER_INFORMATION_REJECTED_SUCCESSFULLY" xml:space="preserve">
+    <value>Vouchers information are rejected successfully.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_BATCH_NUMBER" xml:space="preserve">
+    <value>You need to enter batch number.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECt_BATCH_TYPE" xml:space="preserve">
+    <value>You need to select batch type.</value>
+  </data>
+  <data name="EXISTING_ROWS_CANNOT_BE_DELETED" xml:space="preserve">
+    <value>Existing rows can't be removed.</value>
+  </data>
+  <data name="CANNOT_DELETE_CONTRACT_ITEM" xml:space="preserve">
+    <value>Can't delete contract items. You can only change quantity and discount.</value>
+  </data>
+  <data name="YOU_NEED_TO_ADD_CONTRACT_INFORMATION" xml:space="preserve">
+    <value>You need to add contract information.</value>
+  </data>
+  <data name="YOU_NEED_TO_ADD_INVOICE_INFORMATION" xml:space="preserve">
+    <value>You need to add invoice information.</value>
+  </data>
+  <data name="ONLY_CHECKED_VOUCHER_CAN_BE_APPROVED" xml:space="preserve">
+    <value>Only checked voucher can be approved.</value>
+  </data>
+  <data name="ONLY_ISSUED_VOUCHER_CAN_BE_CHECKED" xml:space="preserve">
+    <value>Only issued voucher can be checked.</value>
+  </data>
+  <data name="BATCH_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save batch information.</value>
+  </data>
+  <data name="BATCH_SAVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Batch information saved successfully.</value>
+  </data>
+  <data name="BLANK_GRID_CAN_NOT_BE_EXPORTED" xml:space="preserve">
+    <value>Blank grid can't be exported.</value>
+  </data>
+  <data name="BLANK_GRID_CAN_NOT_BE_PRINTED" xml:space="preserve">
+    <value>Blank grid can't be printed.</value>
+  </data>
+  <data name="BUDGET_APPROVED_FAILED" xml:space="preserve">
+    <value>Failed to approved budget inforamtion.</value>
+  </data>
+  <data name="BUDGET_APPROVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Budget approved successfully.</value>
+  </data>
+  <data name="PO_IS_CLOSED_SUCCESSFULLY" xml:space="preserve">
+    <value>PO is closed successfully.</value>
+  </data>
+  <data name="PO_IS_OPEN_SUCCESSFULLY" xml:space="preserve">
+    <value>PO is reopened successfully.</value>
+  </data>
+  <data name="CONTRACT_IS_CLOSED_SUCCESSFULLY" xml:space="preserve">
+    <value>Contract is closed successfully.</value>
+  </data>
+  <data name="CONTRACT_IS_OPENED_SUCCESSFULLY" xml:space="preserve">
+    <value>Contract is opened successfully.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_CLAIM_TYPE" xml:space="preserve">
+    <value>You need to select claim type.</value>
+  </data>
+  <data name="CONTACT_PERSON_INFO_SAVED" xml:space="preserve">
+    <value>Contact person  information saved successfully.</value>
+  </data>
+  <data name="CONTACT_PERSON_INFO_UPDATED" xml:space="preserve">
+    <value>Contact person  information updated successfully.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_EMAIL" xml:space="preserve">
+    <value>You need to enter email address.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_NAME" xml:space="preserve">
+    <value>You need to enter name.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_PHONE_NO" xml:space="preserve">
+    <value>You need to enter phone number.</value>
+  </data>
+  <data name="BANK_DEPOSIT_SAVED" xml:space="preserve">
+    <value>Bank deposit saved successfully.</value>
+  </data>
+  <data name="DUPLICATE_BANK_DEPOSIT_REF_NO" xml:space="preserve">
+    <value>Duplicate bank deposit reference no.</value>
+  </data>
+  <data name="SELECT_A_RECORD" xml:space="preserve">
+    <value>Please, select a record.</value>
+  </data>
+  <data name="SELECT_DEPOSIT_TYPE" xml:space="preserve">
+    <value>You need to select deposit type.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_AMOUNT" xml:space="preserve">
+    <value>You need to enter amount.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_DEPOSITED_BY" xml:space="preserve">
+    <value>You need to enter deposited by.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_DEPOSIT_NO" xml:space="preserve">
+    <value>You need to enter deposit reference no.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_SHORT_NOTE" xml:space="preserve">
+    <value>You need to enter short note.</value>
+  </data>
+  <data name="DUPLICATE_ACCOUNT_NUMBER" xml:space="preserve">
+    <value>Duplicate account number exists.</value>
+  </data>
+  <data name="BUDGET_NOT_AVAILABLE" xml:space="preserve">
+    <value>Budget is not available to approved the voucher.</value>
+  </data>
+  <data name="TASK_SAVED" xml:space="preserve">
+    <value>Task information saved successfully.</value>
+  </data>
+  <data name="TASK_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save task information.</value>
+  </data>
+  <data name="DUPLICATE_TASK" xml:space="preserve">
+    <value>Duplicate task code exists !</value>
+  </data>
+  <data name="SELECT_CHART_OF_ACCOUNT" xml:space="preserve">
+    <value>You need to select chart of account.</value>
+  </data>
+  <data name="CHART_OF_ACCOUNT_SAVED" xml:space="preserve">
+    <value>Chart of account saved successfully.</value>
+  </data>
+  <data name="CHART_OF_ACCOUNT_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save chart of account informaiton.</value>
+  </data>
+  <data name="SELECT_DETAIL_ITEM" xml:space="preserve">
+    <value>You need to select detail item.</value>
+  </data>
+  <data name="COMPANY_CODE_ALREADY_EXIST" xml:space="preserve">
+    <value>Company code already exist.</value>
+  </data>
+  <data name="COMPANY_SAVE_FAILED" xml:space="preserve">
+    <value>Fail to save company information.</value>
+  </data>
+  <data name="COMPANY_SAVED" xml:space="preserve">
+    <value>Company saved successfully.</value>
+  </data>
+  <data name="ACTIVITY_CENTER_ALRADY_EXIST_WITH_SAME_CODE" xml:space="preserve">
+    <value>Activity center already exist with same code.</value>
+  </data>
+  <data name="DEPARTMENT_ALRADY_EXIST_WITH_SAME_CODE" xml:space="preserve">
+    <value>Department already exist with same code.</value>
+  </data>
+  <data name="SECTION_WITH_THIS_CODE_ALREADY_EXIST" xml:space="preserve">
+    <value>Section with this code already exist.</value>
+  </data>
+  <data name="CONTROL_ITEM_ALRADY_EXIST_WITH_SAME_CODE" xml:space="preserve">
+    <value>Control Item already exist with the same code.</value>
+  </data>
+  <data name="CODE_ZERO_NOT_ALLOWED" xml:space="preserve">
+    <value>Code number zero not allowed.</value>
+  </data>
+  <data name="ENTRY_FOUR_DIGIT" xml:space="preserve">
+    <value>Enter four digit code.</value>
+  </data>
+  <data name="ENTRY_ONE_DIGIT" xml:space="preserve">
+    <value>Enter one digit code.</value>
+  </data>
+  <data name="THERE_ARE_NO_CHART_OF_ACCOUNT_FOR_THIS_SUPPLIER" xml:space="preserve">
+    <value>Thre are no chart of account for this supplier.</value>
+  </data>
+  <data name="BANK_SAVED" xml:space="preserve">
+    <value>Bank saved successfully.</value>
+  </data>
+  <data name="BANK_UPDATED" xml:space="preserve">
+    <value>Bank updated successfully.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_BANK_CODE" xml:space="preserve">
+    <value>You need to enter bank code.</value>
+  </data>
+  <data name="DUPLICATE_BANK_CODE" xml:space="preserve">
+    <value>Duplicate bank code.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_ADDRESS" xml:space="preserve">
+    <value>You need to enter address.</value>
+  </data>
+  <data name="BRANCH_SAVED" xml:space="preserve">
+    <value>Branch saved successfully.</value>
+  </data>
+  <data name="BRANCH_UPDATED" xml:space="preserve">
+    <value>Branch updated successfully.</value>
+  </data>
+  <data name="DUPLICATE_BRANCH_CODE" xml:space="preserve">
+    <value>Duplicate branch code.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_BRANCH" xml:space="preserve">
+    <value>You need to enter a branch name.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_BRANCH_NAME" xml:space="preserve">
+    <value>You need to select a branch name.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_COUNTRY" xml:space="preserve">
+    <value>You need to select a country.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_BANK_ACCOUNT" xml:space="preserve">
+    <value>You need to select bank account no.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_VOUCHER_NUMBER" xml:space="preserve">
+    <value>You need to select voucher number.</value>
+  </data>
+  <data name="THERE_ARE_NO_CHART_OF_ACCOUNT_FOR_THIS" xml:space="preserve">
+    <value>There is no chart of account for this</value>
+  </data>
+  <data name="THERE_ARE_NO_AVAILABLE_BALANCE_FOR_THIS" xml:space="preserve">
+    <value>There is no available balance for this</value>
+  </data>
+  <data name="BATCH_ALREADY_APPROVED" xml:space="preserve">
+    <value>Batch already approved.</value>
+  </data>
+  <data name="BATCH_APPROVED_FAILED" xml:space="preserve">
+    <value>Batch has been failed to approved.</value>
+  </data>
+  <data name="BATCH_APPROVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Batch has been successfully approved.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_CONTRACT_NO" xml:space="preserve">
+    <value>You need to enter contract number.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_INVOICE_NO" xml:space="preserve">
+    <value>You need to enter invoice number.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_PO_NUMBER" xml:space="preserve">
+    <value>You need to enter puchase order number.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_VOUCHER_NO" xml:space="preserve">
+    <value>You need to enter voucher number.</value>
+  </data>
+  <data name="ENTER_PURCHASE_ORDER_NUMBER" xml:space="preserve">
+    <value>You need to enter purchase order number.</value>
+  </data>
+  <data name="ENTER_CONTRACT_NUMBER" xml:space="preserve">
+    <value>You need to enter contract number.</value>
+  </data>
+  <data name="BANK_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save bank informaiton.</value>
+  </data>
+  <data name="REQUISITION_SAVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Requisition saved successfully.</value>
+  </data>
+  <data name="REQUISITION_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save requisition information.</value>
+  </data>
+  <data name="REQUISITION_UPDATE_SUCCESSFULLY" xml:space="preserve">
+    <value>Requisition update successfully.</value>
+  </data>
+  <data name="PO_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save purchase order information.</value>
+  </data>
+  <data name="PO_SAVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Purchase order saved successfully.</value>
+  </data>
+  <data name="YOU_NEED_TO_CHECK_REQUISITION" xml:space="preserve">
+    <value>You need to check requisition.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_REPORTING_ITEM" xml:space="preserve">
+    <value>You need to select reporting item.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_USER_ID" xml:space="preserve">
+    <value>You need to select user id.</value>
+  </data>
+  <data name="FUND_IS_AVAILABLE_TO_APPROVE_THIS_ORDER" xml:space="preserve">
+    <value>Fund is available to approve this order.</value>
+  </data>
+  <data name="FUND_IS_NOT_AVAILABLE_TO_APPROVE_THIS_ORDER" xml:space="preserve">
+    <value>Fund is not available to approve this order.</value>
+  </data>
+  <data name="SEND_BUDGET_APPROVAL_REQUEST" xml:space="preserve">
+    <value>Do you want to send budget approval request ?</value>
+  </data>
+  <data name="SEND_BUDGET_RELEASE_REQUEST" xml:space="preserve">
+    <value>Dou you want to send budget release request ?</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_COMMENT_TO_CHECK_PO" xml:space="preserve">
+    <value>You need to enter comment to check PO.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_REPORTING_ITEM_CODE" xml:space="preserve">
+    <value>You need to enter reporting item code.</value>
+  </data>
+  <data name="SUPPLIER_INFORMATION_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save supplier information.</value>
+  </data>
+  <data name="SUPPLIER_INFORMATION_SAVED_SUCCESSFULLY" xml:space="preserve">
+    <value>Supplier information saved successfully.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_REQUISITION_ITEM" xml:space="preserve">
+    <value>You need to enter requisition item in grid.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_CHART_OF_ACCOUNT_CODE" xml:space="preserve">
+    <value>You need to select chart of account code.</value>
+  </data>
+  <data name="ONLY_ISSUED_REQUISITION_CAN_EDIT" xml:space="preserve">
+    <value>You can edit only issued requisition.</value>
+  </data>
+  <data name="PO_CHECKED_SUCCESSFULLY" xml:space="preserve">
+    <value>Purchase order checked successfully.</value>
+  </data>
+  <data name="YOU_CAN_COMMITE_ONLY_CHECKED_PO" xml:space="preserve">
+    <value>You  can commit only checked PO.</value>
+  </data>
+  <data name="PO_CHECKED_FAILED" xml:space="preserve">
+    <value>Failed to check PO.</value>
+  </data>
+  <data name="ONLY_ISSUED_PO_CAN_BE_CHECKED" xml:space="preserve">
+    <value>You can check only issued PO.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_ORDER_ITEM" xml:space="preserve">
+    <value>You need to enter PO order item in grid.</value>
+  </data>
+  <data name="YOU_CAN_EDIT_ONLY_MANUALLY_ADDED_PO" xml:space="preserve">
+    <value>You can edit only manually added PO.</value>
+  </data>
+  <data name="BUDGET_APPROVAL_REQUEST_SEND_FAILED" xml:space="preserve">
+    <value>Failed to send budget approval request.</value>
+  </data>
+  <data name="BUDGET_APPROVAL_REQUEST_SENT_SUCCESSFULLY" xml:space="preserve">
+    <value>Budget approval request sent sucessfully.</value>
+  </data>
+  <data name="BUDGET_RELEASE_REQUEST_SEND_FAILED" xml:space="preserve">
+    <value>Failed to send budgt release request.</value>
+  </data>
+  <data name="BUDGET_RELEASE_REQUEST_SENT_SUCCESSFULLY" xml:space="preserve">
+    <value>Budget release request sent successfully.</value>
+  </data>
+  <data name="PO_ALREADY_APPROVED" xml:space="preserve">
+    <value>This PO is already approved.</value>
+  </data>
+  <data name="PLEASE_CONFIRM_YOUR_ACCOUNT_CODE" xml:space="preserve">
+    <value>Please confirm your chart of account.</value>
+  </data>
+  <data name="PO_APPROVED_FAILED" xml:space="preserve">
+    <value>Failed to approve PO.</value>
+  </data>
+  <data name="PO_APPROVED_SUCCESSFULLY" xml:space="preserve">
+    <value>PO approved successfully.</value>
+  </data>
+  <data name="BUDGET_APPROVAL_REQUEST_ALREADY_SENT" xml:space="preserve">
+    <value>Budget approval request already sent.</value>
+  </data>
+  <data name="BUDGET_RELEASE_REQUEST_ALREADY_SENT" xml:space="preserve">
+    <value>Budget release request already sent.</value>
+  </data>
+  <data name="DUPLICATE_BATCH_NUMBER" xml:space="preserve">
+    <value>Duplicate batch number.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_DATA_IN_GRID" xml:space="preserve">
+    <value>You need to enter data in grid.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_ACCOUNT_TYPE" xml:space="preserve">
+    <value>You need to enter account type.</value>
+  </data>
+  <data name="CUSTOMER_INFORMATION_SAVED" xml:space="preserve">
+    <value>Customer information saved successfully.</value>
+  </data>
+  <data name="CUSTOMER_INFORMATION_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save customer information.</value>
+  </data>
+  <data name="INVENTROY_INFORMATION_SAVED" xml:space="preserve">
+    <value>Inventory information saved successfully.</value>
+  </data>
+  <data name="INVENTROY_INFORMATION_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save inventory information.</value>
+  </data>
+  <data name="DUPLICATE_PRODUCT_TYPE" xml:space="preserve">
+    <value>Duplicate product type information!</value>
+  </data>
+  <data name="PRODUCT_TYPE_SAVED" xml:space="preserve">
+    <value>Product type information saved successfully.</value>
+  </data>
+  <data name="PRODUCT_TYPE_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save product type information.</value>
+  </data>
+  <data name="PRODUCT_INFORMATION_SAVED" xml:space="preserve">
+    <value>Product information saved successfully.</value>
+  </data>
+  <data name="PRODUCT_INFORMATION_SAVED_FAILED" xml:space="preserve">
+    <value>Failed to save product information.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_PACK_SIZE" xml:space="preserve">
+    <value>You need to enter pack size.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_PRODUCT_NAME" xml:space="preserve">
+    <value>You need to enter product name.</value>
+  </data>
+  <data name="YOU_NEED_TO_ENTER_REORDER_QUANTITY" xml:space="preserve">
+    <value>You need to enter reorder quantity.</value>
+  </data>
+  <data name="YOU_NEED_TO_SELECT_PRODUCT_TYPE" xml:space="preserve">
+    <value>You need to select product type.</value>
+  </data>
+  <data name="DUPLICATE_PRODUCT" xml:space="preserve">
+    <value>This product is alrady exists!</value>
+  </data>
+</root>

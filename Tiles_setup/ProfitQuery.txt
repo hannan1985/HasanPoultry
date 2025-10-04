@@ -1,0 +1,10 @@
+Select tbl.ProductID,p.ProductName, sum(PurchasePrice) PurchasePrice, sum (Price) Price from (
+Select  csd.ProductID, '0' PurchasePrice , csd.Price from CashSales cs
+left outer join CashSalesOrderDetails csd
+on cs.SalesID=csd.SalesID
+Where cs.SalesDate between '2017/10/01 00:00:00' and '2017/10/01 23:59:59' and BranchID ='1'
+Union All
+Select distinct pod.ProductID,  Max(pod.PurchasePrice) as PurchasePrice,'0' as Price  from dbo.PurchaseOrderDetails pod where pod.ProductID in (
+Select csd.ProductID  from CashSalesOrderDetails csd left outer join CashSales cs on csd.SalesID =cs.SalesID 
+where cs.SalesDate ='2017/10/01' and BranchID ='1') group by pod.ProductID )tbl 
+left outer join ProductInformation p on p.ProductID=tbl.ProductID group by tbl.ProductID,p.ProductName order by p.ProductName

@@ -1,0 +1,531 @@
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\log4net.dll
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Common.dll
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Common.pdb
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\Hannan\ERPExportCopyForDemo\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\log4net.dll
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Common.dll
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Common.pdb
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\Hannan\3_27_2014\SourceCode\NybSysERP\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\AllDB\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\log4net.dll
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+E:\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\IFMSLatest\NybSys.MTBF.Utility\bin\Debug\log4net.dll
+E:\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\IFMSLatest\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\IFMSLatest - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 24_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 25_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 29_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 30_12_2014\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 01_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\VisionTech\VisionTech\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\VisionCosmetics\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\Sultan_Shop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\HaziShop\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.Cache
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Shared.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.Misc.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Shared.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.Misc.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.CopyComplete
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Shared.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.Misc.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Shared.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.Misc.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\Infragistics2.Win.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.CopyComplete
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.dll
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.dll
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\FrameworkX.ObjectSpace.dll
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\bin\Debug\IMFS.Common.pdb
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.AssemblyReference.cache
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Form1.resources
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.NavigationKeys.resources
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.PermissionList.resources
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.Resources.SystemMessages.resources
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.GenerateResource.cache
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll.licenses
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.csproj.CoreCompileInputs.cache
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.M.BDEC04BC.Up2Date
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.dll
+D:\GitRepo\HasanPoultry_Feni\NybSys.MTBF.Utility\obj\Debug\NybSys.MTBF.Utility.pdb

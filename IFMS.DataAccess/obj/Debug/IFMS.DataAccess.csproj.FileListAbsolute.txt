@@ -1,0 +1,309 @@
+E:\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\IFMS\IFMS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\Hannan\Personal\IFMS\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\Hannan\Personal\IFMS\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\Hannan\Personal\IFMS\IFMS\IFMS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Hannan\Personal\IFMS\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\Hannan\Personal\IFMS\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\Hannan\Zabed\IFMS\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\Hannan\Zabed\IFMS\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\Hannan\Zabed\IFMS\IFMS\IFMS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Hannan\Zabed\IFMS\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\Hannan\Zabed\IFMS\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\Hannan\Personal\Zabed\IFMS\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\Hannan\Personal\Zabed\IFMS\IFMS\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\Hannan\Personal\Zabed\IFMS\IFMS\IFMS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Hannan\Personal\Zabed\IFMS\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\Hannan\Personal\Zabed\IFMS\IFMS\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\Hannan\Personal\Zabed\IFMS\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\Hannan\Personal\Zabed\IFMS\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\Hannan\Personal\Zabed\IFMS\IFMSLatest\IFMS.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Hannan\Personal\Zabed\IFMS\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\Hannan\Personal\Zabed\IFMS\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+H:\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+H:\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+H:\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+H:\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\IFMSLatest\IFMS.DataAccess\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+H:\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\AllDB\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\AllDB\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\AllDB\IFMSLatest\IFMS.DataAccess\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\AllDB\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\AllDB\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\bin\Debug\FrameworkX.ObjectSpace.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+G:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\bin\Debug\FrameworkX.ObjectSpace.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\IFMSLatest\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\IFMSLatest\IFMS.DataAccess\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\IFMSLatest\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\IFMSLatest - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\IFMSLatest - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\IFMSLatest - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\IFMSLatest - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\IFMSLatest - Copy\IFMS.DataAccess\bin\Debug\FrameworkX.ObjectSpace.pdb
+E:\InventoryManagement\IFMSLatest 24_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 24_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 24_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 24_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 25_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 25_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 25_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 25_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 29_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 29_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 29_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 29_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 30_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 30_12_2014\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 30_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\InventoryManagement\IFMSLatest 30_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 30_12_2014\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 01_01_2015\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 01_01_2015\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 01_01_2015\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 01_01_2015\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\VisionTech\VisionTech\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\VisionCosmetics\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\Sultan_Shop\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\HaziShop\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Shared.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.Misc.v10.3.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Shared.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\bin\Debug\Infragistics2.Win.Misc.v10.3.xml
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csproj.CopyComplete
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Shared.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.Misc.v10.3.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Shared.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.Misc.v10.3.xml
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csproj.CopyComplete
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IFMS.DataAccess.pdb
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinEditors.v10.3.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\log4net.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.UltraWinGrid.v10.3.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IMFS.Common.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.v10.3.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Shared.v10.3.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\Infragistics2.Win.Misc.v10.3.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\NybSys.MTBF.Utility.pdb
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\bin\Debug\IMFS.Common.pdb
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csproj.AssemblyReference.cache
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.csproj.CoreCompileInputs.cache
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.Dat.FA2C8159.Up2Date
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.dll
+D:\GitRepo\HasanPoultry_Feni\IFMS.DataAccess\obj\Debug\IFMS.DataAccess.pdb

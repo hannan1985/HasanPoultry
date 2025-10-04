@@ -1,0 +1,201 @@
+H:\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.dll
+H:\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.pdb
+H:\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.dll
+H:\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.dll
+F:\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.pdb
+H:\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.dll
+H:\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.pdb
+H:\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+E:\AllDB\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\AllDB\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\AllDB\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\AllDB\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\AllDB\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.dll
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.pdb
+G:\ERP\InventoryForCommon\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+E:\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\IFMSLatest\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\IFMSLatest\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.dll
+E:\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\IFMSLatest\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\IFMSLatest - Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\IFMSLatest - Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\IFMSLatest - Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\IFMSLatest - Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\IFMSLatest - Copy\IMFS.Common\bin\Debug\FrameworkX.ObjectSpace.pdb
+E:\InventoryManagement\IFMSLatest 24_12_2014\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 24_12_2014\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 24_12_2014\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 24_12_2014\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 25_12_2014\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 25_12_2014\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 25_12_2014\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 25_12_2014\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 29_12_2014\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 29_12_2014\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 29_12_2014\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 29_12_2014\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 30_12_2014\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 30_12_2014\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 30_12_2014\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 30_12_2014\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 30_12_2014\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+E:\InventoryManagement\IFMSLatest 01_01_2015\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 01_01_2015\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 01_01_2015\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 01_01_2015\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\IFMSLatest 04_01_2015 -Zahid\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\Tiles_Inventory\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_21_08_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_29_08_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Tiles_Inventory\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015\Ceramic_Gallery_Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Tiles_Inventory_03_09_2015_Setup_Copy\Ceramic_Gallery_Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Porshuram\Prshuram_Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Hazi_Food\Hazi_Food_Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\HannanBack\Local Disk\InventoryManagement\MultiOrganization\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\Projects\Harun_Flour_Maills\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\Projects\Harun_Flour_Maills - Copy\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.pdb
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.dll
+E:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\Porshuram_Inventory\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\HR_Emphorium\HR_Emporium_New_Copy\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\AHEnterprise\Harun_Flour_Mills\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+F:\Projects\VisionTech\VisionTech\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\VisionTech\VisionTech\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\VisionTech\VisionTech\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\VisionTech\VisionTech\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\VisionCosmetics - Copy\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\Sultan_Shop\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\Sultan_Shop\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\Sultan_Shop - Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+F:\Projects\GitRepogitories\HaziShop - Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\HaziShop - Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\HaziShop - Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+F:\Projects\GitRepogitories\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\bin\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\bin\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.csproj.CopyComplete
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\BilmillahShop_Copy\IMFS.Common\obj\Debug\IMFS.Common.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\bin\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\bin\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.csproj.CopyComplete
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.dll
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.pdb
+C:\Users\Hp\Desktop\Projets\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.csprojAssemblyReference.cache
+D:\GitRepo\HasanPoultry_Feni\IMFS.Common\bin\Debug\IMFS.Common.dll
+D:\GitRepo\HasanPoultry_Feni\IMFS.Common\bin\Debug\IMFS.Common.pdb
+D:\GitRepo\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.csproj.AssemblyReference.cache
+D:\GitRepo\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.csproj.CoreCompileInputs.cache
+D:\GitRepo\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Com.E1D2393E.Up2Date
+D:\GitRepo\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.dll
+D:\GitRepo\HasanPoultry_Feni\IMFS.Common\obj\Debug\IMFS.Common.pdb
