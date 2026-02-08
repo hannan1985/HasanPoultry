@@ -44,22 +44,26 @@ namespace IMFS.Common.Utility
                                                                 group by SalesId";
 
 
-            public const string AllSupplierOutstandingByDate = @"Select * from (Select tbl2.BranchID ,tbl2.OrganizationID , c.SupplierName ,c.Address, c.PhoneNumber Phone  , tbl2.SupplierID , SUM(PurchaseAmount) -SUM(PaidAmount) as DueAmount from (
-                                Select * from( 
-                                Select cs.BranchID , cs.OrganizationID , cs.SupplierID, SUM ((PurchaseAmount) ) as PurchaseAmount, ISNULL( SUM (PaidAmount),0) as PaidAmount from PurchaseOrder cs
-                                where cs.PurchaseDate between '{0}' and '{1}' and BranchID ='{2}' and OrganizationID ='{3}' 
+                                            public const string AllSupplierOutstandingByDate = @"Select * from (Select tbl2.BranchID ,tbl2.OrganizationID , c.SupplierName ,c.Address, c.PhoneNumber Phone  , tbl2.SupplierID , SUM(PurchaseAmount) -SUM(PaidAmount) as DueAmount from (
+                                            Select * from( 
+                                            Select cs.BranchID , cs.OrganizationID , cs.SupplierID, SUM ((PurchaseAmount) ) as PurchaseAmount, ISNULL( SUM (PaidAmount),0) as PaidAmount from PurchaseOrder cs
+                                            where cs.PurchaseDate between '{0}' and '{1}' and BranchID ='{2}' and OrganizationID ='{3}' 
 
-                                group by cs.SupplierID, cs.BranchID , cs.OrganizationID 
-                                union
+                                            group by cs.SupplierID, cs.BranchID , cs.OrganizationID 
+                                            union All
 
-                                Select BranchID, OrganizationID, SupplierID,Amount as PurchaseAmount, '0' as PaidAmount from CustomerPreviousDue 
-                                where  BranchID ='{2}' and OrganizationID ='{3}'  and SupplierID <>0
-                                )tbl
-                                union
-                                Select BranchID , OrganizationID, SupplierID  ,'0' as SalesAmount, sum(Amount + isnull(Discount,0) ) as PaidAmount from Payment 
-                                group by BranchID ,OrganizationID , SupplierID)tbl2
-                                left join Suppliers c on c.SupplierID =tbl2 .SupplierID 
-                                group by tbl2.BranchID ,tbl2.OrganizationID , tbl2.SupplierID,c.Address ,c.SupplierName,c.PhoneNumber )tbl3";// where tbl3.DueAmount>0 
+                                            Select cs.BranchID , cs.OrganizationID , cs.SupplierID, 0 PurchaseAmount, sum(Total)- isnull(sum(ReceiveAmount),0) PaidAmount from PurchaseReturn cs
+                                            where cs.ReturnDate between '{0}' and '{1}' and BranchID ='{2}' and OrganizationID ='{3}' 
+                                            group by cs.SupplierID, cs.BranchID , cs.OrganizationID 
+                                            Union All
+                                            Select BranchID, OrganizationID, SupplierID,Amount as PurchaseAmount, '0' as PaidAmount from CustomerPreviousDue 
+                                            where  BranchID ='{2}' and OrganizationID ='{3}'  and SupplierID <>0
+                                            )tbl
+                                            union
+                                            Select BranchID , OrganizationID, SupplierID  ,'0' as SalesAmount, sum(Amount + isnull(Discount,0) ) as PaidAmount from Payment 
+                                            group by BranchID ,OrganizationID , SupplierID)tbl2
+                                            left join Suppliers c on c.SupplierID =tbl2 .SupplierID 
+                                            group by tbl2.BranchID ,tbl2.OrganizationID , tbl2.SupplierID,c.Address ,c.SupplierName,c.PhoneNumber )tbl3";// where tbl3.DueAmount>0 
 
 
 
