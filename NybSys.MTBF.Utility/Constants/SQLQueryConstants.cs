@@ -430,26 +430,26 @@ namespace NybSys.MTBF.Utility.Constants
 
 
             public const string GetSupplierStatement = @"Select tbl.*, c.CompanyName, s.SupplierName from (
-                                                    Select SupplierID, BranchID, PurchaseDate Date, 'Purchase' Description, PurchaseAmount DrAmount ,'0' CrAmount, '1' SequesceNo from PurchaseOrder
-                                                    union
-                                                    Select SupplierID, BranchID, PurchaseDate Date, 'Payments' Description, '0' DrAmount, PaidAmount CrAmount, '2' SequesceNo from PurchaseOrder where PaidAmount>0
-                                                    union
-                                                    Select SupplierID, BranchID, PaymentDate Date, 'Payments' Description, '0' DrAmount, Amount + isnull(Discount,0) CrAmount , '3' SequesceNo from Payment
+                                                        Select SupplierID, BranchID, PurchaseDate Date, 'Purchase' Description, PurchaseAmount DrAmount ,'0' CrAmount, '1' SequesceNo from PurchaseOrder
+                                                        union
+                                                        Select SupplierID, BranchID, PurchaseDate Date, 'Payments' Description, '0' DrAmount, PaidAmount CrAmount, '2' SequesceNo from PurchaseOrder where PaidAmount>0
+                                                        union
+                                                        Select SupplierID, BranchID, PaymentDate Date, 'Payments' Description, '0' DrAmount, Amount + isnull(Discount,0) CrAmount , '3' SequesceNo from Payment
 
-                                                    union
-                                                    Select SupplierID, BranchID, ReturnDate Date ,'Purchase Return' Description , '0' DrAmount, Total CrAmount , '4' SequesceNo from PurchaseReturn
-                                                    union
-                                                    Select SupplierID, BranchID, ReturnDate Date ,'Payments for Purchase Return ' Description , ReceiveAmount DrAmount, '0' CrAmount , '4' SequesceNo from PurchaseReturn
-                                                    union
-                                                    Select SupplierID, BranchID, DueDate Date, 'Previous Due' Description, Amount DrAmount,'0' CrAmount, '0' SequesceNo  from CustomerPreviousDue
-                                                    union all
-                                                    Select ca.ReferenceID SupplierID, jv.BranchID, jv.Date, jv.Description ,  0 Debit ,jv.Amount Credit,'3' SequesceNo   from JournalVoucher jv
-                                                    left outer join ChildAccount ca
-                                                    on jv.DebitChildAccountID=ca.ChildAccountID or jv.CreditChildAccountID=ca.ChildAccountID
-                                                    where ca.ReferenceType={0} and ca.ReferenceID=1 and DebitAccountID>0
-                                                    ) as tbl
-                                                    left outer join Suppliers s on s.SupplierID=tbl.supplierID
-                                                    left outer join CompanyInformation c on c.CompanyID=s.CompanyID Where tbl.SupplierID={0} order by Date, tbl.SequesceNo";
+                                                        union
+                                                        Select SupplierID, BranchID, ReturnDate Date ,'Purchase Return' Description , '0' DrAmount, Total CrAmount , '4' SequesceNo from PurchaseReturn
+                                                        union
+                                                        Select SupplierID, BranchID, ReturnDate Date ,'Payments for Purchase Return ' Description , ReceiveAmount DrAmount, '0' CrAmount , '4' SequesceNo from PurchaseReturn
+                                                        union
+                                                        Select SupplierID, BranchID, DueDate Date, 'Previous Due' Description, Amount DrAmount,'0' CrAmount, '0' SequesceNo  from CustomerPreviousDue
+                                                        union all
+                                                        Select ca.ReferenceID SupplierID, jv.BranchID, jv.Date, jv.Description ,  0 Debit ,jv.Amount Credit,'3' SequesceNo   from JournalVoucher jv
+                                                        left outer join ChildAccount ca
+                                                        on jv.DebitChildAccountID=ca.ChildAccountID or jv.CreditChildAccountID=ca.ChildAccountID
+                                                        where ca.ReferenceType={0} and ca.ReferenceID=1 and DebitAccountID>0
+                                                        ) as tbl
+                                                        left outer join Suppliers s on s.SupplierID=tbl.supplierID
+                                                        left outer join CompanyInformation c on c.CompanyID=s.CompanyID Where tbl.SupplierID={0}  and Date between '{1}' and '{2}' order by Date, tbl.SequesceNo";
 
 
         }

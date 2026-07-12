@@ -36,9 +36,9 @@ namespace IFMS.BLL
             return base.DataAccessManager.GetFilteredData<Supplier>(filter).Cast<Supplier>().ToList();
         }
 
-        public List<SupplierStatement> GetSupplierStatementSupplierID(int supplierID)
+        public List<SupplierStatement> GetSupplierStatementSupplierID(int supplierID, string fromDate, string toDate)
         {
-            string filter = String.Format(MTBFConstants.QueryConstants.GetSupplierStatement, supplierID);
+            string filter = String.Format(MTBFConstants.QueryConstants.GetSupplierStatement, supplierID, fromDate, toDate);
             return base.DataAccessManager.ExecuteSQL<SupplierStatement>(filter).Cast<SupplierStatement>().ToList();
         }
 

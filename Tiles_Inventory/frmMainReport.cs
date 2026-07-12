@@ -94,6 +94,10 @@ namespace Tiles_Inventory
                 LoadSupplierInformation();
                 cmbCustomerName.Visible = true;
                 lblCaption.Visible = true;
+                dtpFromDate.Visible = true;
+                dtpToDate.Visible = true;
+                Label2.Visible = true;
+                Label3.Visible = true;
             }
 
             else if (Convert.ToInt32(cmbReportName.Value) == (int)IFMSEnum.ReportName.ProfitReport)
@@ -2188,8 +2192,37 @@ namespace Tiles_Inventory
             int supplierID = 0;
             int.TryParse(cmbCustomerName.Value.ToString(), out supplierID);
 
-            List<SupplierStatement> lstSupplierStatement = new List<SupplierStatement>();
-            lstSupplierStatement = new SupplierManager().GetSupplierStatementSupplierID(supplierID);
+
+            _fromDate = dtpFromDate.Value.ToString("yyyy/MM/dd") + dayStartTime;
+            _toDate = dtpToDate.Value.ToString("yyyy/MM/dd") + dayEndTime;
+
+            List<SupplierStatement> lstSupplierStatement = new List<SupplierStatement>();       
+
+
+            lstSupplierStatement = new SupplierManager().GetSupplierStatementSupplierID(supplierID, _fromDate, _toDate);
+
+
+            //pull previous balance
+            _fromDate = "2011-01-01";
+            _toDate = dtpFromDate.Value.AddDays(-1).ToString("yyyy/MM/dd") + dayEndTime;
+            var lstPreviousSupplierStatement = new SupplierManager().GetSupplierStatementSupplierID(supplierID, _fromDate, _toDate);
+
+
+            var previousOutStanding = lstPreviousSupplierStatement.Sum(d => d.DrAmount)- lstPreviousSupplierStatement.Sum(d => d.CrAmount);
+
+            if (previousOutStanding!=0)
+            {
+                lstSupplierStatement.Insert(0,
+                new SupplierStatement
+                {
+                    Description = "Previous Outstanding",
+                    DrAmount = previousOutStanding > 0 ? previousOutStanding : 0,
+                    CrAmount = previousOutStanding < 0 ? Math.Abs(previousOutStanding) : 0,
+                    Date = dtpFromDate.Value.AddDays(-1),
+                    SupplierName = lstSupplierStatement.FirstOrDefault()?.SupplierName,
+                });
+            }
+
 
             decimal balance = 0;
             foreach (SupplierStatement statement in lstSupplierStatement)
@@ -2197,6 +2230,10 @@ namespace Tiles_Inventory
                 balance = (statement.DrAmount > 0) ? (balance + statement.DrAmount) : (balance - statement.CrAmount);
                 statement.Balance = balance;
             }
+
+
+
+
 
             if (lstSupplierStatement.Count > 0)
             {
